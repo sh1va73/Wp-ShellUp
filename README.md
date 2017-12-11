@@ -1,2 +1,2 @@
-Wp-ShellUp
+Wp-Shell - Welcome to Git Repo!
 =================
