@@ -1,6 +1,9 @@
-![alt text](https://www.elegantthemes.com/blog/wp-content/uploads/2014/07/creating-a-wp-plugin.jpg "Wp-ShellUp")
+![](https://www.elegantthemes.com/blog/wp-content/uploads/2014/07/creating-a-wp-plugin.jpg "Wp-ShellUp")
 
+# **Wp-ShellUp - Welcome to Git Repo!**
 
+Wordpress File (Specially::PHP Shells) uploader plugin. Actually it can upload any type of files in a WP site which are restricted by default...
 
-Wp-ShellUp - Welcome to Git Repo!
-=================
+### Coder
+## Emon Mahmud
+[Facebook](fb.com/theimran333) | [Twitter](twitter.com/theimran333) | [Github](github.com/theimran333)
