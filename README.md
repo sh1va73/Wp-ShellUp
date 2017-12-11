@@ -6,4 +6,4 @@ Wordpress File (Specially::PHP Shells) uploader plugin. Actually it can upload a
 
 ### Coder
 ## Emon Mahmud
-[Facebook](fb.com/theimran333) | [Twitter](twitter.com/theimran333) | [Github](github.com/theimran333)
+[Facebook](https://fb.com/theimran333) | [Twitter](https://twitter.com/theimran333) | [Github](https://github.com/theimran333)
