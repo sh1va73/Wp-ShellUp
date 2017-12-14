@@ -4,6 +4,6 @@
 
 Wordpress File (Specially::PHP Shells) uploader plugin. Actually it can upload any type of files in a WP site which are restricted by default...
 
-### Coder
+### Coder:
 ## Emon Mahmud
 [Facebook](https://fb.com/theimran333) | [Twitter](https://twitter.com/theimran333) | [Github](https://github.com/theimran333)
